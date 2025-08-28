@@ -4,3 +4,4 @@ Relatório de Vagas DBA pesquisadas em diversos sites de Pesquisas de emprego
 💰 Estimar faixas salariais por nível e localização;
 📈 Identificar tendências do mercado de Tecnologia da Informação (TI) na área de Administração de Banco de Dados.
 
+https://www.linkedin.com/feed/update/urn:li:activity:7366972047605895170/
